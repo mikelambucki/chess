@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Queen.h
+gamePiece.h
+../include/gamePiece.h
+
+../include/gamePiece.h
+iostream
+-
+
+/Users/michaellambucki/Documents/projects/chess/src/Queen.cpp
+Queen.h
+/Users/michaellambucki/Documents/projects/chess/src/Queen.h
+

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/Bishop.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/Bishop.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/Bishop.cpp"
+},
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/Board.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/Board.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/Board.cpp"
+},
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/King.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/King.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/King.cpp"
+},
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/Knight.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/Knight.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/Knight.cpp"
+},
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/Pawn.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/Pawn.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/Pawn.cpp"
+},
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/Queen.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/Queen.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/Queen.cpp"
+},
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/Rook.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/Rook.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/Rook.cpp"
+},
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/gamePiece.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/gamePiece.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/gamePiece.cpp"
+},
+{
+  "directory": "/Users/michaellambucki/Documents/projects/chess/build",
+  "command": "/usr/bin/clang++   -I/Users/michaellambucki/Documents/projects/chess/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/chess.dir/src/main.cpp.o -c /Users/michaellambucki/Documents/projects/chess/src/main.cpp",
+  "file": "/Users/michaellambucki/Documents/projects/chess/src/main.cpp"
+}
+]
